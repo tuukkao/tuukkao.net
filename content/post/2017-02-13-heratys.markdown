@@ -1,0 +1,31 @@
+---
+date: 2017-02-13 09:45:05+00:00
+draft: false
+title: Herätys
+aliases:
+- /2017/02/13/heratys/
+tags:
+- elämä
+- näkövammaisuus
+- ohjelmointi
+---
+
+Kauan on jo ehtinyt kulua keväisistä työnhakukokemuksistani. Matkani on kulkenut lyhyessä ajassa kesätyön ja määräaikaisen työsuhteen kautta vakinaistamiseen. Siksi kerrottavaa onkin ehtinyt kertyä jo melkoinen määrä. Voisin kirjoittaa työtavoistani, työkavereistani, projekteista ja ties mistä muusta. Ennen niitä on kuitenkin käsiteltävä eräs tärkeä asia.<!--more-->
+
+Elettiin lokakuuta. Olin aloittanut muutamaa kuukautta aiemmin projektissa, jonka aktiivinen kehitystyö oli juuri päättynyt. Toisin sanoen olin vailla tekemistä. Tämänkaltainen tilanne on luonnollisesti aivan tavallista arkea projektivetoisessa työssä. Odottelin siis kaikessa rauhassa, minkälaista tekemistä minulle tarjottaisiin.
+
+Sainkin pian viestin myyntitiimistä. Eräs yritys tarvitsisi prototyypin uudelle verkkopalvelulleen nopealla aikataululla. Ulkoasu tulisi valmiina, ja budjetti riittäisi yhden kehittäjän palkkaamiseen. Helppo tapaus, ajattelin, kunnes paljastui, että "valmis ulkoasu" ei suinkaan tarkoittanut valmiiksi kirjoitettua ohjelmakoodia, vaan designerin piirtämiä kuvia, jotka minun tuli kopioida ohjelmakoodiksi parhaan kykyni mukaan.
+
+Miksi ulkoasun toimittaminen kuvina teki tästä tapauksesta sitten niin hankalan? Hyvä kysymys, sillä usein tämänkaltaisissa projekteissa toimitaan juuri näin. Satun kuitenkin [olemaan sokea]({{< relref "2014-02-11-olen-nero-ja-vihannes" >}}), mikä luonnollisesti tekee mallikuvan kopioinnista jokseenkin mahdotonta. Kuinka siis vastasin tarjoukseen? Myöntävästi.
+
+Hetkinen! Olin juuri ottanut vastaan tarjouksen tehdä asiakkaalle palveluprototyypin mallikuvien pohjalta. Miten kummassa olin ajatellut tästä urakasta suoriutua? Näköni riittää häthätää kirkkaan valon aistimiseen. En näe varjoja, en hahmoja, ja vielä vähemmän tietokoneen ruudulla olevaa kuvaa.
+
+Mainittakoon, että hiukan myöhemmin minulle tarjoutui tilaisuus kieltäytyä tästä projektista aiheuttamatta katastrofia, ja niin myös tein. Tämä tapaus kuitenkin pakotti minut naamakkain vammaisuuteni toisen puolen kanssa. Sen, jonka kohtaamista olin vältellyt jo vuosia. Sen, joka ehdottomasti määrittelee ne asiat, joita en voi tehdä.
+
+Kultainen mantrani vammaisuuden kanssa elämiseen on aina ollut: "Kaikki on mahdollista, kunnes toisin todistetaan." Naiivi ajatus, ehkä, mutta aika pitkälle se on minut vienyt. Siispä aloittaessani työt päätin yrittää aivan kaikkea mitä eteeni tuotaisiin. Yhteenkään ideaan tai ehdotukseen en vastaisi kieltävästi ilman perusteellista harkintaa.
+
+Aluksi kaikki vaikuttikin menevän oikein hyvin. Ensimmäiset projektini olivat sellaisia, joissa saatoin rauhassa keskittyä konepellin alla puuhailemiseen käyttäjien katseilta piilossa. Uutena työntekijänä minut otettiin vastaan kerrassaan valtavalla arvonannolla, lämmöllä ja ymmärryksellä, jonka ylistämiseen saisin kulumaan postauksen poikineen. Pidin uusille työkavereilleni lyhyen esityksen otsikolla "sokean koodarin työvälineet", jossa kerroin työvälineistäni ja -tavoistani, ja joka sai suorastaan poikkeuksellisen vastaanoton. Myin sokeuteni lahjana, joka  antaisi elämääni uuden näkökulman ja tavan tehdä asioita, mutta ei tekisi mistään mahdotonta. Aloin vain lopulta uskoa siihen itsekin.
+
+Parin ensimmäisen kuukauden jälkeen aloin oireilla. Koin ajoittain olevani riittämätön, kun en kokenut suoriutuvani joistain tehtävistä omasta mielestäni riittävän nopeasti, tai jos toisten töitä katselmoidessani minulta jäi jokin ilmiselvä virhe huomaamatta. Jos tein jonkin asian sokeuteni vuoksi toisin, saatoin keksiä tekotavalleni jonkin vaihtoehtoisen perustelun. Samaan aikaan avoimesti väheksyin sokeuden aiheuttamia haittoja ja hidasteita. Kun eräs työkaverini ehdotti pistemerkintöjen tekoa neukkareidemme oviin, kieltäydyin vaistomaisesti, sillä kyllähän minä niiden järjestyksen tietysti ulkoa muistaisin. Mutta miksi minun pitäisi? Näkevätkin voivat lukea huoneen nimen oven vieressä olevasta laatasta. Miksen myös minä? Ehkä siksi, että se olisi ollut näkyvä osoitus siitä, etten vammaisena pysty aivan kaikkeen, enkä voinut sallia sellaista.
+
+Lokakuinen projektitarjous antoi minulle opetuksen. Se osoitti minulle, etten ollut läheskään niin sinut oman vammaisuuteni kanssa kuin olin aina kuvitellut. Samalla se sai minut vihdoin tulemaan järkiini omien kykyjeni suhteen. Minun tekemänäni projektista olisi tullut pannukakku, eikä se olisi ollut kenenkään edun mukaista. Ei minun, ei asiakkaan eikä edustamani yrityksen. Jokaisen ihmisen kyvyillä on omat rajansa. Niitä ei pidä ainoastaan venyttää, kuten minä tein, vaan niitä täytyy myös kunnioittaa. Tämän kun on oivaltanut, voi rauhassa keskittyä itselleen mahdollisten töiden tekoon, ja niitä riittää. Paljon.

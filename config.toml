@@ -1,0 +1,18 @@
+baseURL = "https://tuukkao.net"
+DefaultContentLanguage = "fi-FI"
+languageCode = "fi-FI"
+title = "Tuukka Ojala"
+copyright = "(c) 2012-2019 Tuukka Ojala"
+theme = "hyde-y"
+
+[permalinks]
+    post = "/post/:slug"
+
+[Author]
+    name = "Tuukka Ojala"
+    email = "tuukka.ojala@iki.fi"
+
+[params]
+    topline = "Koodari, muusikko ja pohdiskelija."
+    description = "Koodari, muusikko ja pohdiskelija."
+    twitter = "tuukkao"
