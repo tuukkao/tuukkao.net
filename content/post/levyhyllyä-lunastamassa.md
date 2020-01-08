@@ -1,16 +1,16 @@
 ---
 title: "Levyhyllyä lunastamassa"
-date: 2020-01-05T15:39:05+02:00
-draft: true
+date: 2020-01-08T11:11:00+02:00
+draft: false
 tags:
     - musiikki
 ---
 
-Harvassa ovat ne musiikkia kuuntelevat tuttavani, joiden elämään musiikin streamauspalvelut eivät olisi vaikuttaneet. Streamauspalvelut, erityisesti Spotify, ovat olleet merkittävin tapa, jolla olen viime vuosina kuunnellut ja löytänyt musiikkia. Vuosi sitten aloin tarkastella kriittisemmin musiikinkuuntelutapojani, ja tarkastelun tuloksena päädyin tekemään menneen maailman hommia: ostamaan levyjä.
+Harvassa ovat ne musiikkia kuuntelevat tuttavani, joiden elämään musiikin streamauspalvelut eivät olisi vaikuttaneet. Streamauspalvelut, erityisesti Spotify, ovat olleet merkittävin tapa, jolla olen viime vuosina kuunnellut ja löytänyt musiikkia. Vuosi sitten aloin tarkastella kriittisemmin musiikinkuuntelutapojani, ja tarkastelun tuloksena päädyin tekemään menneen maailman hommia: ostamaan levyjä.<!--more-->
 
 Hyppäsin itse Spotifyn kelkkaan vuonna 2009. Ensimmäiset vuodet käytin sitä lähes pelkästään levyjen ja kappaleiden koekuunteluun. Jos olin löytänyt mielestäni potentiaalisen levyn, etsin sen Spotifysta ja kuuntelin pariin kertaan. Jos levy kuulosti hyvältä, suuntasin levyostoksille.
 
-Tällaiseen toimintatapaan oli ennen kaikkea kaksi syytä. Ensimmäinen, käytännönläheisempi syy oli se, ettei minulla ollut mitään konstia kuunnella Spotifyta missään muualla kuin tietokoneeni ääressä. En omistanut älypuhelinta, eikä kymmenen euron kuukausimaksu olisi ollut satunnaisten keikkatulojen varassa elävälle koululaiselle mitenkään realistinen vaihtoehto. Puolikkaan tikkuaskin kokoinen MP3-soitin kulki mukanani kaikkialle, ja sinne kopioin musiikkikirjastoni parhaat levyt.
+Tällaiseen toimintatapaan oli ennen kaikkea kaksi syytä. Ensimmäinen, käytännönläheisempi syy oli se, ettei minulla ollut mitään konstia kuunnella Spotifyta missään muualla kuin tietokoneeni ääressä. En omistanut älypuhelinta, eikä kymmenen euron kuukausimaksu olisi ollut satunnaisten keikkatulojen varassa elävälle koululaiselle muutenkaan realistinen vaihtoehto. Puolikkaan tikkuaskin kokoinen MP3-soitin kulki mukanani kaikkialle, ja sinne kopioin musiikkikirjastoni parhaat levyt.
 
 Toinen syy Spotifyn levyautomaattimaiseen käyttööni oli idealistinen. Halusin omistaa lempimusiikkini oikeina levyinä. Muu ei olisi tullut kysymykseenkään. Haaveilin isosta, aakkosittain järjestetystä levyhyllystä, joka olisi kuva minusta musiikinkuuntelijana ja -tuntijana.
 
@@ -26,15 +26,17 @@ Tämän katoamistempun myötä ymmärsin tulkinneeni asiakassuhdettani Spotifyyn
 
 Olin tästä havainnosta niin suivaantunut, että laadin siinä paikassa ostoslistan. Poimin listalle minulle tärkeiksi muodostuneet, vain Spotifyssa kuuntelemani levyt, joita minun tulisi aivan varmasti ikävä jos ne katoaisivat elämästäni. Siitä listasta ei tullutkaan kovin lyhyt.
 
-Henkilökohtainen levykokoelmani on karttunut vähin erin ostoslistani levyillä. Koko listan sisältöä en ole vielä hankkinut, ja tuskin hankinkaan, sillä osa sen levyistä on jo menettänyt merkitystään. Spotifyn käyttöni ei ole kuitenkaan muuttunut mihinkään, eikä se taida vielä muuttuakaan. Se saa levyjen hamstraamisen tuntumaan hölmöltä puuhalta. Aivan kuin keräisin kotiini varmuusvarastoa ydinsotaa varten. Nyt minulla on kuitenkin varmuus siitä, että monissa elämäni paikoissa minua kannatellut musiikki on todellakin minun, eikä sitä oteta yksittäisen ihmisen tai pörssiyhtiön päähänpistosta minulta pois.
+Henkilökohtainen levykokoelmani on karttunut vähin erin ostoslistani levyillä. Koko listan sisältöä en ole vielä hankkinut, ja tuskin hankinkaan, sillä osa sen levyistä on jo menettänyt merkitystään. Käytän tosin Spotifyta edelleen aivan entiseen malliin, eivätkä nämä levyostokset ole siksi vaikuttaneet elämääni kovin paljon – paitsi yhdellä tavalla. Muistatteko sen puolikkaan tikkuaskin kokoisen MP3-soittimen, jonka aiemmin mainitsin? Se ei suinkaan hajonnut, vaan älypuhelin teki siitä tarpeettoman. Jokin aika sitten latasin soittimeni täyteen tuoreempia suosikkilevyjäni, ja otin sen mukaan pitkälle junamatkalle. Ja sepä olikin kuuntelukokemus! Ei silmille hyppiviä ilmoituksia. Ei sovelluksia joilla palkita harhailevaa mieltäni. Vain laite, jolla saattoi ainoastaan kuunnella musiikkia. Eikä satojen miljoonien kappaleiden katalogia, vaan pariakymmentä levyä, jotka olin itse valinnut ja joihin halusin uppoutua. Tuntui hyvältä, kun pitkästä aikaa olosuhteet asettivat minulle rajat.
+
+Levyhyllyni ei ole enää aikakapseli, mutta käytän Spotifyta edelleen. Se saa levyjen hamstraamisen tuntumaan aika hölmöltä puuhalta. Aivan kuin keräisin kotiini varmuusvarastoa ydinsotaa varten. Nyt kuitenkin tiedän, että monissa elämäni aallokoissa minua kannatellut musiikki on todellakin minun, eikä yksittäisen ihmisen tai pörssiyhtiön päähänpisto vie sitä minulta pois.
 
 ***
 
-Tämän tekstin loppuosa sisältää taiteen kannalta yhdentekevää äänitenörtteilyä; En pahastu, jos lopetat tähän. Seuraavassa kerron hajahuomioita siitä, mistä ja millaisin periaattein olen musiikkia itselleni hankkinut kuluneen vuoden aikana. Ehkä tämä voi kiinnostaa jotakuta.
+Tämän tekstin loppuosa sisältää taiteen kannalta yhdentekevää äänitenörtteilyä; En pahastu, jos lopetat tähän. Seuraavassa kerron hajahuomioita siitä, mistä ja millaisin periaattein olen musiikkia itselleni hankkinut viimeisen vuoden aikana. Ehkä tämä voi kiinnostaa jotakuta.
 
 Olen prosesseilla käyvä ihminen. Niinpä ostoslistan kokoamisen yhteydessä laadin itselleni viralliset hankintakriteerit.  Olen luonnollisesti joustanut niistä moneen kertaan kuten asiaan kuuluu. Pääpiirteissään ne ovat seuraavat:
 
-Musiikin tulee olla häviöttömästi pakattua jos vain mahdollista. En minä tietenkään erota iTunes-kaupan tiedostoa CD-levystä. Syy on pikemminkin periaatteellinen. Jos häviöttömästi ja häviöllisesti pakattu levy maksavat lähes yhtä paljon, ei häviöllisen ostossa ole mitään mieltä.
+Musiikin tulee olla häviöttömästi pakattua jos vain mahdollista. Sitä saa ostettua joistain tiedostoja myyvistä kaupoista, mutta edullisimmaksi tavaksi on osoittautunut ostaa käytettyjä CD-levyjä; tästä lisää tietoa hiukan myöhemmin. En minä tietenkään erota iTunes-kaupan tiedostoa CD-levystä. Syy on pikemminkin periaatteellinen. Jos häviöttömästi ja häviöllisesti pakattu levy maksavat lähes yhtä paljon, ei häviöllisen ostossa ole mitään mieltä. Ja jos olen valmis ostamaan levyn, haluan siitä version niin lähellä alkuperäistä kuin on järkevästi mahdollista.
 
 Samasta syystä en yleensä huoli digitaalitekniikalla äänitettyjen tai masteroitujen albumien vinyylipainoksia hyllyyni. Minun nähdäkseni tällainen levy on turhanpäiväistä estetiikalla leikittelyä, jolla otetaan täysin tarpeettomia askelia kauemmaksi alkuperäisestä äänityksestä. Vastaavasti vanhojen, analogisesti tuotettujen levyjen vinyylipainokset ovat ainakin teoriassa kiinnostavia, sillä CD-versioita tehdessä näiden levyjen masternauhat ovat saattaneet mennä huonoon kuntoon. Niinpä alkuperäinen vinyyliversio voi parhaimmillaan olla CD:tä mukavampi kuuntelukokemus, kun lähdemateriaali on ollut tekohetkellä parempikuntoista. Vanhan vinyylin metsästäminen on kuitenkin sen verran loputon suo, ettei minulla ole aikaa eikä viitseliäisyyttä semmoiseen. (Ainakaan useimpien artistien kohdalla. Abbaa minulla on yksi [erinomainen 80-luvun kokoelmaboksi][Abba reader's digest], myönnetään.)
 
@@ -44,9 +46,9 @@ Olen myös yrittänyt käyttää sellaisia kauppoja, jotka ovat mahdollisimman l
 
 [Bella Union store]: https://bellaunion.ochre.store/
 
-Kaikista kustannustehokkaimmaksi paikaksi levyhankinnoilleni on osoittautunut – hieman yllättäenkin – [Discogs]. Discogs on tunnettu erityisesti levytietokantana, jonne on kirjattu miljoonittain levyjen kansitietoja. Se on myös erinomainen käytettyjen levyjen kauppapaikka, josta saattaa löytää käytännössä mitä tahansa. Ja koska CD-levyjen ostaminen on suurin piirtein epämuodikkainta mitä musiikin harrastaja saattaa tehdä, eivät vähänkään yleisemmät levyt maksa juuri mitään. Ostin vastikään uudenveroisen kopion Beatlesin White Albumista, ja toimituskuluineenkin levyn hinta oli alle kolmannes uuden hinnasta.
+Koko edellä olevan sepustuksen voisi oikeastaan summata näin: Mahdollisimman pakkaamatonta musiikkia mahdollisimman edullisesti ja mahdollisimman lähellä toimitusketjun alkupäätä. Kaikista kustannustehokkaimmaksi paikaksi levyhankinnoilleni on osoittautunut – hieman yllättäenkin – [Discogs]. Discogs on tunnettu erityisesti levytietokantana, jonne on kirjattu miljoonittain levyjen kansitietoja. Se on myös erinomainen käytettyjen levyjen kauppapaikka, josta saattaa löytää käytännössä mitä tahansa. Ja koska CD-levyjen ostaminen on suurin piirtein epämuodikkainta mitä musiikin harrastaja saattaa tehdä, eivät vähänkään yleisemmät levyt maksa juuri mitään. Ostin vastikään uudenveroisen kopion Beatlesin White Albumista, ja toimituskuluineenkin levyn hinta oli alle kolmannes uuden hinnasta.
 
-Ajatukseni käytettyjen Cd-levyjen ostamisesta ovat hiukan ristiriitaiset. Periaatteessa en ole kovin innokas haalimaan lisää levyjä nurkkiini pölyä keräämään, mutta toisaalta kaikki osapuolet lienevät tyytyväisiä, jos levy päätyy hyllyyni eikä jätelavalle. Sen sijaan uusia fyysisiä levyjä en osta ilman hyvää perustetta.
+Ajatukseni käytettyjen Cd-levyjen ostamisesta ovat hiukan ristiriitaiset. Periaatteessa en ole kovin innokas haalimaan lisää levyjä nurkkiini pölyä keräämään, mutta toisaalta kaikki osapuolet lienevät tyytyväisiä, jos levy päätyy hyllyyni eikä jätelavalle. Sen sijaan uusia fyysisiä levyjä en enää osta ilman hyvää perustetta.
 
 [Discogs]: https://www.discogs.com/
 
