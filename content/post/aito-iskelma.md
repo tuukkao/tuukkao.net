@@ -17,7 +17,7 @@ Eihän asia tietenkään näin ole, mutta henkilökohtaisesti minua hymyilyttä�
 
 Iskelmä ei siis ollut aluksi mikään genre. Sellainen siitä tuli vasta angloamerikkalaisen pop-musiikin ja -kulttuurin nousun myötä 1960- ja 70-luvuilla. Silloin nuoret alkoivat kuunnella pop- ja rock-musiikkia, vanhat iskelmää kuten tangoja ja valsseja.[^iskelmä-genre]
 
-"Aito iskelmä" voisi siis olla genre, joka sisältää ennen 1970-lukua julkaistun populaarimusiikin ja vanhemman yleisön makuun sävelletyt suomalaiskansalliset kappaleet. Nyt aletaan olla jo lähempänä Aito iskelmä -kanavan musiikillista tarjontaa: Juha Tapiota, Merja Rantamäkeä, Kirkaa ja Beatlesia. Mutta miksi soittolistalla on sellaisia kappaleita kuin Juicen Viidestoista yö tai hectorin Lumi teki enkelin eteiseen? Ne eivät olleet ilmestymishetkellään iskelmää missään tapauksessa.
+"Aito iskelmä" voisi siis olla genre, joka sisältää ennen 1970-lukua julkaistun populaarimusiikin ja vanhemman yleisön makuun sävelletyt suomalaiskansalliset kappaleet. Nyt aletaan olla jo lähempänä Aito iskelmä -kanavan musiikillista tarjontaa: Juha Tapiota, Merja Rantamäkeä, Kirkaa ja Beatlesia. Mutta miksi soittolistalla on sellaisia kappaleita kuin Juicen Viidestoista yö tai Hectorin Lumi teki enkelin eteiseen? Ne eivät olleet ilmestymishetkellään iskelmää missään tapauksessa.
 
 Minun nähdäkseni iskelmä ei ole enää mikään kiinteä ja tiukkarajainen genre. Sen sijaan kansakunnan muistiin jääneillä kappaleilla on tapana patinoitua iskelmiksi. Iskelmiä voi yrittää säveltää, mutta parhaimpia iskelmiä ovat ne, jotka kypsyvät sellaisiksi itse.
 
