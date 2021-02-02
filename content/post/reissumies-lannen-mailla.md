@@ -2,6 +2,8 @@
 title: "Reissumies Lännen Mailla: Tapio Rautavaaran countrylevytykset"
 date: 2021-02-02T13:30:00+02:00
 draft: false
+tags:
+    - musiikki
 ---
 
 Suomi, toisin kuin muut pohjoismaat, ei ole koskaan ollut varsinaisesti countrykansaa. Toki country tunnetaan meilläkin hyvin, mutta se ei ole ollut ikinä valtavirtaa sellaisenaan. Sen sijaan countryn elementtejä on uitettu suomalaisen iskelmän sävelkieleen vuosien varrella, ja siellä niitä on kevyenä mausteena edelleen.
@@ -34,7 +36,7 @@ Tullessaan Levytukkuun sai Bergström työmaakseen levy-yhtiön, joka oli kentie
 
 Tapio Rautavaaran ensimmäinen countrysingle julkaistiin lokakuussa 1960. Sen a-puolella oli kappale nimeltä Toverukset, joka oli käännös Jim Reevesin edellisvuotisesta kappaleesta Partners. Sovitus ei ole Bergströmin, vaan tausta on lainattu Ruotsista Bonniers Folkbibliotek -yhtiöltä, jolle kappaleen oli laulanut nouseva iskelmätähti Gunnar Wiklund. Tekstin on suomentanut nimimerkki Era eli Erkki Ainamo, monipuolinen musiikkialan vaikuttaja ja yksi Harry Bergströmin vakiosanoittajista.
 
-Sinkun b-puolelle pantiin El Paso, Marty Robbinsin jättihitti, joka oli Yhdysvalloissa parhaimmillaan sekä country että pop-listan ykkönen. Suomennoksen tähän versioon teki Reino Helismaa. Tämä on mielenkiintoinen yksityiskohta, sillä Helismaa oli leimallisesti Musiikki-Fazerin sanoittaja, mutta he eivät julkaisseet El Pasosta omaa versiotaan. Taustakuorona levyn molemmilla puolilla toimi lauluyhtye Neloset, Bergströmin löytöjä hekin. Kyseisen yhtyeen riveissä teki ensimmäisiä levytyskeikkojaan muuten tuleva suuruus Jukka Kuoppamäki.
+Sinkun b-puolelle pantiin Marty Robbinsin jättihitti El Paso. Suomennoksen tähän versioon teki Reino Helismaa. Tämä on mielenkiintoinen yksityiskohta, sillä Helismaa oli leimallisesti Musiikki-Fazerin sanoittaja, mutta he eivät julkaisseet El Pasosta omaa versiotaan. Taustakuorona levyn molemmilla puolilla toimi lauluyhtye Neloset, Bergströmin löytöjä hekin. Kyseisen yhtyeen riveissä teki ensimmäisiä levytyskeikkojaan muuten tuleva suuruus Jukka Kuoppamäki.
 
 Toverukset / El Paso ei herättänyt ostavassa yleisössä mainittavaa kiinnostusta. Seuraavaa yritystä lähdettiin tekemään jo määrätietoisemmin. Tammikuussa 1961 ilmestyneen singlen a-puolella oli käännös Johnny Hortonin menestyskappaleesta North to Alaska, joka sai Saukin kynästä suomenkieliseksi nimekseen Kohti Alaskaa. Taustakuorona lauloi Neloset.
 
