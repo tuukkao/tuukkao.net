@@ -1,8 +1,8 @@
 baseURL = "https://tuukkao.net"
-DefaultContentLanguage = "fi-FI"
-languageCode = "fi-FI"
+DefaultContentLanguage = "fi"
+languageCode = "fi"
 title = "Tuukka Ojala"
-copyright = "(c) 2012-2020 Tuukka Ojala"
+copyright = "(c) 2012-2021 Tuukka Ojala"
 theme = "hyde-y"
 
 [permalinks]
