@@ -112,7 +112,7 @@ Oletko joskus käyttänyt näkövammaisen seurassa näkemiseen liittyviä ilmais
 
 Kun puhumme näkemisestä, puhumme oikeasti usein kokemisesta. Jos näkevä kysyy toiselta näkevältä, onko hän *katsonut* jonkin leffan, niin väitän, että hän olettaa toisen myös kuunnelleen elokuvan ääniä.
 
-Sama pätee myös siihen, kun kaverille toivotetaan "näkemiin": ei silloinkaan kyse ole oikeasti pelkästä *näkemisestä* vaan *tapaamisesta'.
+Sama pätee myös siihen, kun kaverille toivotetaan "näkemiin": ei silloinkaan kyse ole oikeasti pelkästä *näkemisestä* vaan *tapaamisesta*.
 
 Arkikielessä näkeminen  tarkoittaa myös kokemista ja kohtaamista, joten puhu vain näkemisestä, vaikkei keskustelukumppanisi näkisikään. Niin sokotkin tekevät keskenään. (Enkä muuten jaksaisi kohdata enää yhtäkään ihmistä, joka jaksaa tästä huvittua.)
 
