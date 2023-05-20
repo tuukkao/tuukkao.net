@@ -126,7 +126,7 @@ Kun mietit, millaista kieltä voit käyttää näkövammaisen kanssa, niin muist
 
 ***
 
-Tämä teksti on oiva esimerkki sanonnasta "kansalle mitä kansa haluaa". Minulle tämän kirjoittaminen tuntui erityisen vastenmieliseltä, koska koin netin olevan jo väärällään tämänkaltaista perustason valistuspuhetta. Mutta niin vain tämä kirjoitus nousi miltei heti Näkemättä kauniin suosituimmaksi tekstiksi.
+Tämä teksti on oiva esimerkki sanonnasta "kansalle mitä kansa haluaa". Minulle tämän kirjoittaminen tuntui vastentahtoiselta, koska koin netin olevan jo väärällään tämänkaltaista perustason vammaisvalistusta. Mutta niin vain tämä kirjoitus nousi miltei heti Näkemättä kauniin suosituimmaksi tekstiksi.
 
 ## Olenko se keneksi pukeudun? (30.08.2019)
 
