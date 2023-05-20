@@ -2,7 +2,7 @@ baseURL = "https://tuukkao.net"
 DefaultContentLanguage = "fi"
 languageCode = "fi"
 title = "Tuukka Ojala"
-copyright = "(c) 2012-2021 Tuukka Ojala"
+copyright = "(c) 2012-2023 Tuukka Ojala"
 theme = "hyde-y"
 
 [permalinks]
@@ -15,4 +15,3 @@ theme = "hyde-y"
 [params]
     topline = "Koodari, muusikko ja pohdiskelija."
     description = "Koodari, muusikko ja pohdiskelija."
-    twitter = "tuukkao"
