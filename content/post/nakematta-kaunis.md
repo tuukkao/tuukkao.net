@@ -5,12 +5,13 @@ draft: false
 tags:
     - Näkövammaisuus
 toc: true
+summary: "Syystalvi 2018 oli elämässäni kiireistä aikaa. Ohjelmistoalan päivätöissäni hommia riitti enemmän kuin ehdin tehdä, ja vuosikaudet jäissä ollut muusikonuranikin alkoi viimein elpyä. Alkoi tuntua siltä, etten kaipaisi elämääni enää yhtään lisää menoa ja meininkiä. Niinpä kun Tampereen seudun näkövammaiset ry:n uunituore toiminnanjohtaja soitti kysyäkseen haluaisinko lähteä rakentamaan aivan uudenlaista näkövammaisasioiden somekanavaa, vastasin kyllä."
 ---
 
 ## Johdanto
 ### Kuinka kaikki tapahtui?
 
-Syystalvi 2018 oli elämässäni kiireistä aikaa. Ohjelmistoalan päivätöissäni hommia riitti enemmän kuin ehdin tehdä, ja vuosikaudet jäissä ollut muusikonuranikin alkoi viimein elpyä. Alkoi tuntua siltä, etten kaipaisi elämääni enää yhtään lisää menoa ja meininkiä. Niinpä kun Tampereen seudun näkövammaiset ry:n uunituore toiminnanjohtaja soitti kysyäkseen haluaisinko lähteä rakentamaan aivan uudenlaista näkövammaisasioiden somekanavaa, vastasin kyllä.[^tsnv]<!--more-->
+Syystalvi 2018 oli elämässäni kiireistä aikaa. Ohjelmistoalan päivätöissäni hommia riitti enemmän kuin ehdin tehdä, ja vuosikaudet jäissä ollut muusikonuranikin alkoi viimein elpyä. Alkoi tuntua siltä, etten kaipaisi elämääni enää yhtään lisää menoa ja meininkiä. Niinpä kun Tampereen seudun näkövammaiset ry:n uunituore toiminnanjohtaja soitti kysyäkseen haluaisinko lähteä rakentamaan aivan uudenlaista näkövammaisasioiden somekanavaa, vastasin kyllä.[^tsnv]
 
 [^tsnv]: Asiaan vihkiytymättömille lukijoille tiedoksi: Suomen näkövammaiskenttä on hyvin järjestäytynyt. Kattojärjestömme on [Näkövammaisten liitto](https://www.nkl.fi/), joka puolestaan on jakautunut alueyhdistyksiksi. [Tampereen seudun näkövammaiset](https://www.tsnv.fi/) on nimensä mukaisesti Tampereen seudun paikallisyhdistys.
 
