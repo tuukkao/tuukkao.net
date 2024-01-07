@@ -1,0 +1,7 @@
+{{ define "main" }}
+  {{ .Content }}
+  <h2>Viimeisimmät blogista (päivitetty viimeksi {{ site.LastChange | time.Format site.Params.dateFormat }})</h2>
+  {{- range (where site.RegularPages "Type" "post") | first 5 }}
+    {{ partial "blog_list_item.html" . }}
+  {{- end }}
+{{ end }}

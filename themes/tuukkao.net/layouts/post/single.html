@@ -1,0 +1,19 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+  {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+  {{ $dateHuman := .Date | time.Format site.Params.dateFormat }}
+  <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+  {{- if .Params.toc }}
+    <h2>Sisältö</h2>
+    {{ .TableOfContents }}
+  {{- end }}
+  {{ .Content }}
+  <hr />
+  <p>
+    Tagit:
+    {{- range .GetTerms "tags" }}
+      <a href="{{ .RelPermalink }}">#{{ .LinkTitle }}</a> 
+    {{ end }}
+  </p>
+{{ end }}

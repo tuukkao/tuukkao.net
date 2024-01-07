@@ -1,0 +1,32 @@
+baseURL = "https://tuukkao.net"
+languageCode = "fi"
+title = "Tuukka Ojala"
+copyright = "(c) 2012-2024 Tuukka Ojala"
+theme = "tuukkao.net"
+
+[menus]
+    [[menus.main]]
+        url = "/"
+        name = "Etusivu"
+        weight = 1
+    [[menus.main]]
+        url = "/post"
+        name = "Blogi"
+        weight = 10
+    [[menus.main]]
+        url = "/yhteystiedot"
+        name = "Yhteystiedot"
+        weight = 30
+
+[permalinks]
+    post = "/post/:slug"
+
+[params]
+    dateFormat = "02.01.2006"
+    [params.author]
+        name = "Tuukka Ojala"
+        email = "tuukka.ojala@iki.fi"
+    [[params.verifiableLinks]]
+        link = "https://mastodontti.fi/@tuukkao"
+    [[params.verifiableLinks]]
+        link = "https://dragonscave.space/@tuukkao"

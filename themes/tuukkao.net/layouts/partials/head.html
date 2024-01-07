@@ -1,0 +1,7 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+<link rel="stylesheet" href="https://unpkg.com/missing.css@1.1.1">
+{{- range site.Params.verifiableLinks }}
+    <link rel="me" href="{{ .link }}">
+{{- end }}
