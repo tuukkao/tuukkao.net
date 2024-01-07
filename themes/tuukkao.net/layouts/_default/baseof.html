@@ -5,7 +5,8 @@
 </head>
 <body>
   <header class="navbar">
-    {{ partial "header.html" . }}
+    <h1>{{ site.Title }}</h1>
+    {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
   </header>
   <main>
     {{ block "main" . }}{{ end }}
