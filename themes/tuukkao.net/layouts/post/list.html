@@ -2,7 +2,6 @@
   <h1>{{ .Title }}</h1>
   {{ .Content }}
   {{ range .Pages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
-    {{ .Summary }}
+    {{ partial "blog_list_item.html" . }}
   {{ end }}
 {{ end }}
