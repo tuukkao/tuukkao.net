@@ -1,0 +1,5 @@
+# Uudelleeenohjaus http -> https
+RewriteEngine On
+RewriteCond %{ENV:HTTPS} !on
+RewriteRule (.*) https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
+# RewriteRule (.*) https://www.youtube.com/watch?v=dQw4w9WgXcQ [R=301,L]
