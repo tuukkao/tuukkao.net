@@ -1,7 +1,7 @@
 ---
 title: "Levyhyllyä lunastamassa osa 2, eli miten rakensin itselleni henkilökohtaisen Spotifyn"
-date: 2025-01-14T15:30:00+02:00
-draft: true
+date: 2025-01-14T17:10:00+02:00
+draft: false
 slug: levyhyllya-lunastamassa-2
 tags:
     - musiikki
