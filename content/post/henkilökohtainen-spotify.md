@@ -8,7 +8,7 @@ tags:
     - tekniikka
 ---
 
-Kirjoitin reilut neljä vuotta sitten siitä, miten olin [alkanut jälleen hankkia][osa 1] musiikkia streaming-palveluiden käyttämisen ohella. Tässä vaiheessa en ollut vielä löytänyt itselleni mieluista tapaa kuunnella musiikkikokoelmaani miltä tahansa laitteelta. Sain eräässä tarmonpuuskassani viimein ratkaistua tämän ongelman tavalla, johon olen käytännössä täysin tyytyväinen. Tässä kirjoituksessa kerron mistä palikoista streaming-kokonaisuuteni on rakennettu, miten käytän niitä ja mitä jatkokehitettävää niissä vielä on. Kerron samalla musiikin arkistoinnista ja metadatan hallinnasta yleisemminkin.<!--more-->
+Kirjoitin viisi vuotta sitten siitä, miten olin [alkanut jälleen hankkia][osa 1] musiikkia streaming-palveluiden käyttämisen ohella. Tässä vaiheessa en ollut vielä löytänyt itselleni mieluista tapaa kuunnella musiikkikokoelmaani miltä tahansa laitteelta. Sain eräässä tarmonpuuskassani viimein ratkaistua tämän ongelman tavalla, johon olen käytännössä täysin tyytyväinen. Tässä kirjoituksessa kerron mistä palikoista streaming-kokonaisuuteni on rakennettu, miten käytän niitä ja mitä jatkokehitettävää niissä vielä on. Kerron samalla musiikin arkistoinnista ja metadatan hallinnasta yleisemminkin.<!--more-->
 
 **Sisältövaroitus**: Tämä kirjoitus sisältää todella syvän pään musiikki-, tietotekniikka- ja arkistonörtteilyä. Ja vähän angstiakin.
 
